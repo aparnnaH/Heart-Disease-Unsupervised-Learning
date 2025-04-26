@@ -21,7 +21,7 @@ The dataset was preprocessed, standardized, and reduced to two dimensions using 
 ### Results & Demo
 Silhouette scores were used to evaluate the clustering performance. DBSCAN provided the best natural clustering of patients. Further analysis included profiling the clusters based on cardiovascular risk factors.
 
-**Watch the demo video here**: [YouTube Link](https://youtu.be/your_video_link)
+**Watch the demo video here**: [YouTube Link](https://youtu.be/crhAs2YyhcQ?si=5ekPksPVGztAIbT_)
 
 ## Running the Notebook
 
